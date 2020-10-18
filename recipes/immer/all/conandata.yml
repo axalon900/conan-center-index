@@ -1,0 +1,4 @@
+sources:
+  "0.6.2":
+    url: https://github.com/arximboldi/immer/archive/v0.6.2.zip 
+    sha256: ba77899182274756cf85b7979a65789a2ab6e86bb72bde903779a0ff607f398b 
