@@ -1,0 +1,4 @@
+sources:
+  "cci.20201213":
+    url: "https://github.com/facebookexperimental/libunifex/archive/2efda8062a4ced795bfbe0ffb670904be2baffbd.tar.gz"
+    sha256: "f9101940184335427e4b146fee3bc22f010150d4fc41684021ddcb5f8eca745f"
